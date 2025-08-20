@@ -8,7 +8,7 @@ import src.account.*;
 // This is the main app file
 // RUN THIS FILE
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         MainViewController.run();
     }
 }
